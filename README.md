@@ -1,6 +1,6 @@
 # Respect Your LLMs: A Guide to Advanced Prompt Engineering
 
-<img src="debian.gorilla.png" width="150" alt="Gorilla Project Logo">
+<img src="debian.gorilla.png" width="400" alt="Gorilla Project Logo">
 
 ## Section A — For the Layman (Simple Talk)
 ### What is this?
