@@ -1,6 +1,8 @@
 # Respect Your LLMs: A Guide to Advanced Prompt Engineering
 
-## 🧸 Section A — For the Layman (Simple Talk)
+<img src="debian.gorilla.png" width="150" alt="Gorilla Project Logo">
+
+## Section A — For the Layman (Simple Talk)
 ### What is this?
 Have you ever felt like an AI (like ChatGPT or Gemini) was being a bit "thick" or just telling you what you wanted to hear? This guide explains **why** that happens and how to fix it. 
 
